@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">MultiQuiz</string>
+
+    <string name="question_one">Which is the best programming language?</string>
+    <string name="question_one_answer_one">Python</string>
+    <string name="question_one_answer_two">Java</string>
+    <string name="question_one_answer_three">C++</string>
+    <string name="question_one_answer_four">Ruby</string>
+
+    <string name="question_two">Which programming language unnecessarily changes syntax?</string>
+    <string name="question_two_answer_one">Java</string>
+    <string name="question_two_answer_two">Kotlin</string>
+    <string name="question_two_answer_three">Python</string>
+    <string name="question_two_answer_four">C++</string>
+
+    <string name="question_three">How to best resolve errors?</string>
+    <string name="question_three_answer_one">Give up</string>
+    <string name="question_three_answer_two">Sleep</string>
+    <string name="question_three_answer_three">Stackoverflow</string>
+    <string name="question_three_answer_four">Cry</string>
+
+    <string name="question_four">Which is the capital of Australia?</string>
+    <string name="question_four_answer_one">Brisbane</string>
+    <string name="question_four_answer_two">Sydney</string>
+    <string name="question_four_answer_three">Melbourne</string>
+    <string name="question_four_answer_four">Canberra</string>
+
+    <string name="hint_button">Hint</string>
+    <string name="submit_button">Submit</string>
+
+    <string name="results_header_label">Results</string>
+    <string name="correct_answers_label">Correct Answers:</string>
+    <string name="submitted_answers_label">Submitted Answers:</string>
+    <string name="hints_used_label">Hints Used:</string>
+    <string name="reset_all_button">Reset All</string>
+</resources>
