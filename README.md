@@ -3,6 +3,8 @@ Android App having a simple quiz of 4 questions with a hint and a final score at
 
 App cotains communication between two activities, along with modelling by voew storage to sustain system state and avoid rotation bugs. Also follows MVC separation.
 
+Finally have JVM and instrumented unit test cases to ensure the correct working of the system.
+
 ![image](https://user-images.githubusercontent.com/57321224/219998331-ac38036b-1c2d-4b05-b2c9-adc4382b0379.png)
 
 
